@@ -12,7 +12,11 @@ function Hero() {
           </div>
         </div>
         <div className="hero-avatar" aria-label="avatar">
-          <div className="avatar-circle">IT</div>
+          <img
+            src="/avatar.jpg"
+            alt="Phạm Hoàng Chương"
+            className="avatar-circle object-cover"
+          />
         </div>
       </div>
     </section>
@@ -20,5 +24,6 @@ function Hero() {
 }
 
 export default Hero;
+
 
 
