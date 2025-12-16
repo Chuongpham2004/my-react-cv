@@ -15,7 +15,7 @@ function Hero() {
           <img
             src="/avatar.jpg"
             alt="Phạm Hoàng Chương"
-            className="avatar-circle object-cover"
+            className="avatar-circle"
           />
         </div>
       </div>
